@@ -4,9 +4,9 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Clyde Tandjong
+  name: Destiny Bertier
   role: Junior, Computer Science
-  image: /assets/images/profile.svg
+  image: /assets/images/profile.png
   linkedin: https://www.linkedin.com/in/example
   bio: |
     Hi! I'm Clyde, a Computer Science student in the CEAMLS SAIRI Summer Research program.
