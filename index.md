@@ -13,7 +13,7 @@ quick_facts:
   - "🍖 I love BBQ ribs"
 
 linkedin: https:www.linkedin.com/in/destinybertier
-image: /assets/images/profile.svg
+image: /assets/images/profile.png
 
 # A "Currently" block — three short status lines for the home page.
 currently:
