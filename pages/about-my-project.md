@@ -3,38 +3,35 @@ layout: project
 title: About My Project
 permalink: /about-my-project.html
 
-subtitle: Human-Computer Interaction & Adaptive Systems
-project_title: "My Summer Research Project"
+subtitle: Artificial Intelligence & Alzheimer Disease
+project_title: "AI-Driven Discovery of Drug Candidate Compounds to Slow Cognitive Decline in Alzheimer’s Disease
+"
 
 problem: |
-  Briefly describe the problem your project tackles. Who is affected? Why does this
-  matter? What gap or limitation are you trying to address?
+  Alzheimer’s Disease continues to affect millions of lives worldwide, yet discovering effective treatments remains a long, expensive, and complex process. Traditional drug discovery methods often require years of experimentation and resources, making it difficult to rapidly identify promising therapies. This project explores how artificial intelligence can help accelerate and strengthen the search for potential drug candidates by making the process more efficient, scalable, and data-driven.
 
-  Aim for two to three short paragraphs. Plain language is great — your audience
-  may not be specialists in your sub-field.
 
 approach: |
-  Describe how you'll approach the problem. A bulleted plan works well:
 
-  - Step 1 — what you'll build, collect, or analyze first
-  - Step 2 — the next phase of the work
-  - Step 3 — how you'll evaluate or test
-  - Step 4 — how you'll communicate the results
+  - Step 1 — Collect and Prepare Compound Data
+  Gather and organize compound data from scientific databases such as PubChem. Clean and preprocess the dataset to ensure the information is reliable and ready for computational analysis.
+  - Step 2 — Build a QSAR and Machine Learning Pipeline
+  Apply QSAR modeling and machine learning techniques to learn patterns within compound data and predict important characteristics such as biological activity, drug-likeness, toxicity, and physicochemical properties.
+  - Step 3 — Evaluate and Prioritize Top Compounds
+  Compare model performance and use prediction results to identify and prioritize compounds that demonstrate stronger therapeutic potential. This step helps narrow the search before moving into more advanced validation.
+  - Step 4 — Extend Predictions Through Structure-Based Analysis
+  Use tools such as AlphaFold 3, Protenix, and molecular docking in future stages to evaluate how top-ranked compounds may structurally interact with Alzheimer’s-related protein targets and strengthen confidence in candidate selection.
 
-  Mention the specific tools, datasets, or methods you'll use.
 
 outcome: |
-  What do you expect to produce by the end of the program? A working prototype?
-  A research poster? A short paper? Describe the artifacts and what you hope
-  others will be able to do with them.
-
-final_report_url: https://example.com/your-report.pdf
+ By the end of this project, I aim to produce a validated computational pipeline capable of identifying and prioritizing promising Alzheimer’s drug candidates. This work will include a trained and evaluated machine learning model, insights into compound behavior and selection, and a framework that supports future structure-based validation. Ultimately, my goal is to contribute toward more intelligent and efficient approaches to drug discovery for Alzheimer’s Disease and beyond.
+final_report_url: ttps://example.com/your-report.pdf](https://docs.google.com/document/d/18jZP4MNmSA4bPrdg2VFGY64nFXNXW9G2/edit
 
 grad_mentor:
-  name: Alex Morgan
-  linkedin: https://www.linkedin.com/in/example
+  name: Ramisa Farha
+  linkedin: https://www.linkedin.com/in/ramisa-farha/
 
 faculty_mentor:
-  name: Dr. Pat Nguyen
-  linkedin: https://www.linkedin.com/in/example
+  name: Dr. Roshan Paudel
+  linkedin: https://www.linkedin.com/in/roshan-paudel-ph-d-b3438488/?skipRedirect=true
 ---
