@@ -6,7 +6,7 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: Ramisa Farha
   title: PhD Candidate, Advanced Computing
-  image: /assets/images/graduate-student-mentor.svg
+  image: /assets/images/Ramisa photo.webp
   website: https://www.linkedin.com/in/ramisa-farha/
   bio: |
     Ramisa Farha is a Computer Science graduate student at Morgan State University. Who completed her Master’s degree in Spring 2026 and is now striving for her PHD. 
@@ -20,7 +20,7 @@ graduate_mentor:
 faculty_mentor:
   name: Dr. Roshan Paudel
   title: Professor of Practice at Morgan State University
-  image: /assets/images/faculty-mentor.svg
+  image: /assets/images/Dr.Paudel.jpg
   website: https://www.linkedin.com/in/roshan-paudel-ph-d-b3438488/?skipRedirect=true
   bio: |
    Dr. Paudel is a Bioinformatics professor whose journey reflects both dedication and deep connection to Morgan State University. Not only is he a proud Morgan State alumnus, but he has also continued giving back through teaching and mentoring at the university for over 11 years. His commitment to Morgan extends beyond academics. It is also where an important part of his personal story began. During his time at Morgan, he met his wife, and together they built a growing family with their two daughters. His continued presence at the university reflects years of loyalty, community, and investment in helping future generations succeed.
