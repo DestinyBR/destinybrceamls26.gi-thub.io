@@ -9,31 +9,32 @@ about:
   image: /assets/images/profile.png
   linkedin: https://www.linkedin.com/in/example
   bio: |
-    Hi! I'm Clyde, a Computer Science student in the CEAMLS SAIRI Summer Research program.
+    Hi! I am Destiny Bertier, a rising senior majoring in Computer Science and currently participating in the 2026 CEAMLS SAIRI Summer Research Program. 
+    Spaces where technology becomes more than code and turns into experiences that truly connect with and excite people.
+    
 
-    My research interests sit at the intersection of human-computer interaction and applied
-    machine learning. I'm especially curious about how everyday tools can be made more
-    accessible and adaptive through smart software.
-
-    Outside of class, you'll find me biking trails, learning languages, or working on small
-    side projects with friends.
-
+    What continues to inspire me about Computer Science is the ambitious opportunity it gives me to create actual and lasting impact in areas that matter to my community.Beyond technical growth, Computer Science has opened doors to experiences I deeply value, including travel, networking, national conventions, competitions, and opportunities to learn from people with different perspectives and backgrounds. As I continue growing as both a researcher and creator, I hope to thrive building technology that is innovative, human-centered, and capable of leaving a meaningful impact wherever it reaches. 
+  
   hobbies:
+    - icon: 👩🏽‍🍳
+      title: Cooking 
+      description: I make learn something new to cook every month, and have been assigned the family cook whenever my friends and family, are sick, and are celebrating a holiday. 
+    - icon: 📸 
+      title: Content
+      description: I take themed, sceneic views and social media photos for myself and student organizations. 
+    - icon: 🎥
+      title: Movies
+      description: I watch movies to enjoy a weekend inside, I love marvel, disney, history, drama and psychological thriller movies. 
     - icon: 🎨
-      title: Digital Art
-      description: I make small illustrations and pixel art in my spare time.
-    - icon: 🚲
-      title: Biking
-      description: Weekend trail rides are how I reset.
-    - icon: 📚
-      title: Reading
-      description: Sci-fi novels and design essays — both equally inspiring.
+      title: Sketch 
+      description: I go out to scenic and aesthtic spaces to drae and sketch what I see around me. I then design and color in my own color books. 
 
+   
   gallery:
-    - image: /assets/images/gallery-1.svg
-      caption: A great day on the trail.
-    - image: /assets/images/gallery-2.svg
-      caption: One of my recent illustrations.
-    - image: /assets/images/gallery-3.svg
-      caption: Hanging out with friends after class.
+    - image: /assets/images/NSBE.jpeg
+      caption: My very first time in Chicago, attending the National Society of Black Engineers 50th Convention!
+    - image: /assets/images/marvel.jpg
+      caption: A collection of Marvel movies I enjoy. 
+    - image: /assets/images/salad.JPG
+      caption: A plate of baked garlic chicken and mashed potatoes with a side of salad I cooked recently.
 ---
