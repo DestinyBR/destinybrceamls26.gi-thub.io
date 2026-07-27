@@ -9,7 +9,7 @@ motto: “With vision that’s bright and tech as my key, I will build new oppor
 quick_facts:
   - "🎓 Junior, Computer Science"
   - "🔬 Interested in computer science"
-  - "📍 From Pjiladelphia, PA"
+  - "📍 From Philadelphia, PA"
   - "🍖 I love BBQ ribs"
 
 linkedin: https:www.linkedin.com/in/destinybertier
